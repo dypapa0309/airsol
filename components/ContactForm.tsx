@@ -100,7 +100,7 @@ export default function ContactForm() {
         <h3 className="text-2xl font-bold text-gray-900 mb-2">문의가 접수되었습니다</h3>
         <p className="text-gray-600">
           담당자가 빠르게 연락드리겠습니다.<br />
-          급한 경우 <a href="tel:01082740422" className="text-blue-600 font-semibold">010-8274-0422</a>로 직접 연락주세요.
+          급한 경우 <a href="tel:01040941666" className="text-blue-600 font-semibold">010-4094-1666</a>로 직접 연락주세요.
         </p>
       </div>
     )

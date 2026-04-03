@@ -13,7 +13,7 @@ export default function PhoneButton({ className, location, children }: PhoneButt
 
   return (
     <a
-      href="tel:01082740422"
+      href="tel:01040941666"
       className={className}
       onClick={() => track('phone_click', { location })}
     >

@@ -9,7 +9,7 @@ export default function MobileFixedCTA() {
     <div className="fixed bottom-0 left-0 right-0 z-50 md:hidden bg-white border-t border-gray-200 shadow-lg">
       <div className="flex">
         <a
-          href="tel:01082740422"
+          href="tel:01040941666"
           onClick={() => track('phone_click', { location: 'mobile_cta' })}
           className="flex-1 flex items-center justify-center gap-2 py-4 bg-gray-800 text-white font-bold text-sm"
         >

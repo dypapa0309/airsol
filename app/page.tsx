@@ -77,7 +77,7 @@ export default function LandingPage() {
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2}
                   d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />
               </svg>
-              010-8274-0422
+              010-4094-1666
             </PhoneButton>
             <a
               href="#contact-form"
@@ -266,7 +266,7 @@ export default function LandingPage() {
                   className="flex items-center gap-1.5 text-blue-700 font-semibold hover:underline"
                   location="form_section"
                 >
-                  📞 010-8274-0422
+                  📞 010-4094-1666
                 </PhoneButton>
                 <span className="text-gray-300">|</span>
                 <span className="text-gray-500 text-sm">급한 경우 전화 문의 권장</span>
@@ -283,7 +283,7 @@ export default function LandingPage() {
             <p className="text-sm">경기도 화성시 송산면 당성로 566-12</p>
             <p className="text-sm mt-1">
               📞{' '}
-              <a href="tel:01082740422" className="hover:text-white transition-colors">010-8274-0422</a>
+              <a href="tel:01040941666" className="hover:text-white transition-colors">010-4094-1666</a>
               {' · '}
               ✉️{' '}
               <a href="mailto:airsolution2024@naver.com" className="hover:text-white transition-colors">
